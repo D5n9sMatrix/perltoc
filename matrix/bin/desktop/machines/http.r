@@ -31,7 +31,7 @@ add.smooth <- function(r, value) {
 }
 add.smooth(r, value = 02:10)
 
-# refresh ask check pots
+# Continue ask check pots
 check.pots <- ask
 
 # logic a cub net fresh wiki pad
